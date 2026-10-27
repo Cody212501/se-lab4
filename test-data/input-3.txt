@@ -1,0 +1,3 @@
+# 3. SINGLE mod - ures primary eseten a secondary tuzel
+GT4500,0,0,1,0
+TORPEDO,SINGLE

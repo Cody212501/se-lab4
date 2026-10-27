@@ -1,0 +1,4 @@
+# 7. ALL mod - mindket tar elsutese, majd ellenorzo loves
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,SINGLE
