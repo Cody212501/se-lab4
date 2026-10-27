@@ -1,0 +1,3 @@
+# 5. SINGLE mod - meghibasodo primary eseten nem probalja meg a secondary-t
+GT4500,1,1.0,1,0
+TORPEDO,SINGLE
