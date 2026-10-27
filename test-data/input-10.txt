@@ -1,0 +1,4 @@
+# 10. SINGLE mod - primary tuzeles utan mindket tar ures a masodik lovesnel
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
